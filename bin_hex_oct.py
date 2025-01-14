@@ -6,3 +6,4 @@ for i in range(1, number + 1):
 
 
 print("this is karthik")
+print("this is new one")
